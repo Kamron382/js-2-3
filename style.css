@@ -1,0 +1,19 @@
+body{
+    color: white;
+    
+}
+.item2{
+    background-color: lawngreen;
+    border-radius: 30px;
+    border: none;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+}
+.iten1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
